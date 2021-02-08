@@ -1,4 +1,5 @@
 console.log('Client side javascript file is loaded')
+console.log('This was loaded by ajaiy')
 //  fetch('http://localhost:3000/weather?address=boston').then((response) => {
 //      response.json().then((data) => {
 //          if (data.error) {
